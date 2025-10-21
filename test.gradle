@@ -7,7 +7,7 @@ dependencies {
     // Other
     testImplementation 'org.jeasy:easy-random-core:5.0.0'
     testImplementation 'org.awaitility:awaitility:4.3.0'
-    testImplementation 'org.wiremock:wiremock-standalone:3.3.1'
+    testImplementation 'org.wiremock:wiremock-standalone:3.13.1'
     testImplementation 'org.junit.jupiter:junit-jupiter-engine'
     testImplementation 'org.junit.platform:junit-platform-commons'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
