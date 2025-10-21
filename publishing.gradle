@@ -4,7 +4,7 @@ bootJar {
 
 jar {
     enabled = true
-    classifier = ""
+    archiveClassifier.set("")
 }
 
 tasks.register('sourcesJar', Jar) {
