@@ -12,7 +12,7 @@ dependencies {
     testImplementation 'org.junit.platform:junit-platform-commons'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
-    testImplementation('io.github.lsd-consulting:lsd-distributed-generator-ui-service:7.2.23:wiremock-stubs'){
+    testImplementation('io.github.lsd-consulting:lsd-distributed-generator-ui-service:7.2.25:wiremock-stubs'){
         exclude group: "*", module: "*"
     }
 }
