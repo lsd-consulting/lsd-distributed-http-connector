@@ -4,7 +4,7 @@ dependencies {
     compileOnly 'org.springframework.boot:spring-boot-autoconfigure:3.5.10'
 
     // LSD
-    api 'io.github.lsd-consulting:lsd-distributed-connector:2.2.5'
+    api 'io.github.lsd-consulting:lsd-distributed-connector:2.2.6'
     implementation 'io.github.lsd-consulting:lsd-logging-library:2.0.3'
 
     // Other
